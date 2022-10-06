@@ -7,7 +7,7 @@
 ## 🙋 About Me
 
 
-- 🔭   I’m currently working on **projects C#, Python, kotlin and Arduino**
+- 🔭   I’m currently working on **projects using C#, Python, kotlin and Arduino** 
 
 - 🌱 I’m currently learning more of **React, PostgreSQL and Go**
 
