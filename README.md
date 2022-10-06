@@ -28,6 +28,7 @@
 </p>
 
 ## 📊 Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preciousnyasulu&show_icons=true&locale=en&bg_color=0D1117" alt="PreciousNyasulu" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=preciousnyasulu&show_icons=true&locale=en&layout=compact&bg_color=0D1117" alt="PreciousNyasulu" /></p>
 
+[![Precious' github stats](https://github-readme-stats.vercel.app/api/top-langs?username=preciousnyasulu&show_icons=true&locale=en&layout=compact&bg_color=0D1117)](https://github.com/preciousnyasulu/github-readme-stats)
+
+[![Precious' github stats](https://github-readme-stats.vercel.app/api?username=preciousnyasulu&show_icons=true&locale=en&bg_color=0D1117)](https://github.com/preciousnyasulu/github-readme-stats)
