@@ -27,8 +27,8 @@
 <a href="https://www.linkedin.com/in/precious-nyasulu-356942155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PreciousNyasulu" height="30" width="40" /></a><a href="https://dev.to/preciousnyasulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="PreciousNyasulu" height="30" width="40" /></a>
 </p>
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats
 
 [![Precious' github stats](https://github-readme-stats.vercel.app/api/top-langs?username=preciousnyasulu&show_icons=true&locale=en&layout=compact&bg_color=0D1117)](https://github.com/preciousnyasulu/github-readme-stats)
 
-[![Precious' github stats](https://github-readme-stats.vercel.app/api?username=preciousnyasulu&show_icons=true&locale=en&bg_color=0D1117)](https://github.com/preciousnyasulu/github-readme-stats)
+[![Precious' github stats](https://github-readme-stats.vercel.app/api?username=preciousnyasulu&show_icons=true&locale=en&bg_color=0D1117)](https://github.com/preciousnyasulu/github-readme-stats) -->
