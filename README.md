@@ -7,9 +7,9 @@
 ## 🙋 About Me
 
 
-- 🔭   I’m currently working on **projects using C#, Python, kotlin and Arduino** 
+- 🔭   I’m currently working on **projects using C#, Golang and Laravel** 
 
-- 🌱 I’m currently learning more of **React, PostgreSQL and Go**
+- 🌱 I’m currently learning more of **Vue, Rust and Go**
 
 - 👯 I’m looking to collaborate on **projects with other developers.**
 
